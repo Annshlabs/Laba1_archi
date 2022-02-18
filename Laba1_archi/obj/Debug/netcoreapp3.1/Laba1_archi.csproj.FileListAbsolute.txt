@@ -1,0 +1,16 @@
+C:\Users\AnnaB\source\repos\Laba1_archi\Laba1_archi\obj\Debug\netcoreapp3.1\Laba1_archi.csprojAssemblyReference.cache
+C:\Users\AnnaB\source\repos\Laba1_archi\Laba1_archi\obj\Debug\netcoreapp3.1\Laba1_archi.Form1.resources
+C:\Users\AnnaB\source\repos\Laba1_archi\Laba1_archi\obj\Debug\netcoreapp3.1\Laba1_archi.csproj.GenerateResource.cache
+C:\Users\AnnaB\source\repos\Laba1_archi\Laba1_archi\obj\Debug\netcoreapp3.1\Laba1_archi.AssemblyInfoInputs.cache
+C:\Users\AnnaB\source\repos\Laba1_archi\Laba1_archi\obj\Debug\netcoreapp3.1\Laba1_archi.AssemblyInfo.cs
+C:\Users\AnnaB\source\repos\Laba1_archi\Laba1_archi\obj\Debug\netcoreapp3.1\Laba1_archi.csproj.CoreCompileInputs.cache
+C:\Users\AnnaB\source\repos\Laba1_archi\Laba1_archi\bin\Debug\netcoreapp3.1\Laba1_archi.exe
+C:\Users\AnnaB\source\repos\Laba1_archi\Laba1_archi\bin\Debug\netcoreapp3.1\Laba1_archi.deps.json
+C:\Users\AnnaB\source\repos\Laba1_archi\Laba1_archi\bin\Debug\netcoreapp3.1\Laba1_archi.runtimeconfig.json
+C:\Users\AnnaB\source\repos\Laba1_archi\Laba1_archi\bin\Debug\netcoreapp3.1\Laba1_archi.runtimeconfig.dev.json
+C:\Users\AnnaB\source\repos\Laba1_archi\Laba1_archi\bin\Debug\netcoreapp3.1\Laba1_archi.dll
+C:\Users\AnnaB\source\repos\Laba1_archi\Laba1_archi\bin\Debug\netcoreapp3.1\Laba1_archi.pdb
+C:\Users\AnnaB\source\repos\Laba1_archi\Laba1_archi\obj\Debug\netcoreapp3.1\Laba1_archi.dll
+C:\Users\AnnaB\source\repos\Laba1_archi\Laba1_archi\obj\Debug\netcoreapp3.1\Laba1_archi.pdb
+C:\Users\AnnaB\source\repos\Laba1_archi\Laba1_archi\obj\Debug\netcoreapp3.1\Laba1_archi.genruntimeconfig.cache
+C:\Users\AnnaB\source\repos\Laba1_archi\Laba1_archi\obj\Debug\netcoreapp3.1\Laba1_archi.Properties.Resources.resources
